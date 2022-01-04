@@ -1,3 +1,7 @@
+# Setup project
+
+clone the repo 'run npm' install and after installation run 'npm run dev', this will run frontend and backend both.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
